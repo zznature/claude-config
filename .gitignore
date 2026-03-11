@@ -1,0 +1,20 @@
+# Claude Code runtime data (auto-generated, never commit)
+history.jsonl
+cache/
+debug/
+telemetry/
+tasks/
+todos/
+projects/
+file-history/
+plans/
+shell-snapshots/
+backups/
+statsig/
+stats-cache.json
+paste-cache/
+plugins/install-counts-cache.json
+
+# Local-only settings
+settings.local.json
+CLAUDE.md
