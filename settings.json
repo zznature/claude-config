@@ -22,7 +22,15 @@
       "Bash(git:tag)",
       "Bash(git:fetch)",
       "Bash(git:clone)",
-      "Bash(git:submodule)"
+      "Bash(git:submodule)",
+      "Bash(pip:show)",
+      "Bash(pip:list)",
+      "Bash(pip:freeze)",
+      "Bash(conda:env)",
+      "Bash(conda:list)",
+      "Bash(conda:info)",
+      "Bash(python:--version)",
+      "Bash(which:*)"
     ],
     "deny": [
       "Bash(rm:*)",
