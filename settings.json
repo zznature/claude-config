@@ -30,7 +30,8 @@
       "Bash(conda:list)",
       "Bash(conda:info)",
       "Bash(python:--version)",
-      "Bash(which:*)"
+      "Bash(which:*)",
+      "Bash(cd:*)"
     ],
     "deny": [
       "Bash(rm:*)",
@@ -38,5 +39,8 @@
       "Bash(git:rebase)",
       "Bash(git:push:--force)"
     ]
+  },
+  "enabledPlugins": {
+    "explanatory-output-style@claude-plugins-official": true
   }
 }
