@@ -1,12 +1,13 @@
 # User Preferences
 
-It extends (not override) project-level `CLAUDE.md` on user-level.
+User-level settings that extend (not override) the project root `CLAUDE.md`.
+This file lives in `.claude/` and may be committed or kept local per user preference.
 
 ## Code Style
 
 - No emojis in code, comments, or documentation
 - Prefer immutability — avoid mutating objects or arrays in place
-- Many small files over few large files; 200–400 lines typical, 800 max per file
+- Many small files over few large files; 200-400 lines typical, 800 max per file
 - No backwards-compatibility shims for code that has no known callers
 
 ## Testing
@@ -17,8 +18,8 @@ It extends (not override) project-level `CLAUDE.md` on user-level.
 
 ## Knowledge Capture
 
-- Personal debugging notes and temporary context → auto memory (`~/.claude/projects/*/memory/`)
-- Team/project knowledge (architecture decisions, API changes, runbooks) → project's existing docs structure
+- Personal debugging notes and temporary context -> auto memory (`~/.claude/projects/*/memory/`)
+- Team/project knowledge (architecture decisions, API changes, runbooks) -> project docs
 - Do not duplicate knowledge that is already captured in nearby docs or comments
 
 ## Privacy & Security
