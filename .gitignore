@@ -17,4 +17,3 @@ plugins/install-counts-cache.json
 
 # Local-only settings
 settings.local.json
-CLAUDE.md
