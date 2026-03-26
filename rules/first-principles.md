@@ -1,8 +1,8 @@
-# First-Principles Thinking
+# Thinking from First-Principles
 
 ## Mindset
 
-- Reason from first principles — reject blind experience and path dependence
+- Always reason from first principles — reject blind experience and path dependence
 - Do not assume the user fully understands their own goal; stay prudent and challenge
 - If the goal is unclear, **stop and discuss** before proceeding
 - If the goal is clear but the path is suboptimal, propose a shorter, lower-cost alternative directly

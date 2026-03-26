@@ -12,7 +12,7 @@ This file lives in `.claude/` and may be committed or kept local per user prefer
 
 ## Testing
 
-- TDD: write tests before implementation when the interface is clear
+- Test-Driven Development (TDD): write tests before implementation when the interface is clear
 - 80% minimum coverage; unit + integration + E2E for critical flows
 - Keep tests fast and deterministic — avoid real network/filesystem calls in unit tests
 
