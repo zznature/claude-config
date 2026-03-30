@@ -41,6 +41,7 @@
     ]
   },
   "enabledPlugins": {
-    "explanatory-output-style@claude-plugins-official": true
+    "explanatory-output-style@claude-plugins-official": true,
+    "mgrep@Mixedbread-Grep": true
   }
 }

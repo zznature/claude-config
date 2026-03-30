@@ -1,4 +1,4 @@
-# .claude/ — Shared Claude Code Configuration
+# Claude Code Configs for Research Projects
 
 Reusable Claude Code settings, rules, agents, commands, and skills.
 Designed to be shared across multiple research projects via git submodule.
@@ -73,5 +73,4 @@ extends it with your personal preferences.
 
 - **Generic over specific** — No hardcoded package names, paths, or API keys
 - **Thin commands, rich agents** — Commands are launchers; agents have the logic
-- **Research-first** — MEDIUM issues are advisory, not blockers
 - **Token-lean** — Every file is optimized for AI context consumption
