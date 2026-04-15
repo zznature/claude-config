@@ -5,7 +5,7 @@ Check background-task checks reasonably to save tokens and keep tasks on track.
 ## Check Intervals
 
 - **Estimate runtime before launching.** Tell the expected wait to the user.
-- **First check**: enough setup time after launch.
+- **First check**: enough setup time after launch (e.g. 2 minutes).
 - **Subsequent checks**: exponential backoff — 2 min, 5 min, 10 min, then stop and wait for the task-notification.
 
 ## Checking Method
