@@ -14,7 +14,9 @@ Designed to be shared across multiple research projects via git submodule.
 ├── rules/                     # Always-active behavioral rules
 │   ├── first-principles.md    #   Challenge assumptions, reason from fundamentals
 │   ├── research-style.md      #   Iterate fast, stay reproducible, skip ceremony
-│   └── write-for-future-readers.md  # Capture why, not what
+│   ├── write-for-future-readers.md  # Capture why, not what
+│   ├── explanatory-mode.md    #   Insert ★ Insight blocks for non-obvious decisions
+│   └── model-routing.md       #   Route subtasks to Haiku/Sonnet/Opus by difficulty
 │
 ├── commands/                  # User-invokable slash commands
 │   ├── python-review.md       #   /python-review — lint + type check + security scan
@@ -30,7 +32,8 @@ Designed to be shared across multiple research projects via git submodule.
     ├── python-patterns/       #   Type hints, error handling, idioms, anti-patterns
     ├── python-testing/        #   pytest fixtures, parametrize, mocking LLM calls
     ├── writing-for-engineers/ #   Comments, commit messages, READMEs — capture the why
-    └── agent-harness-construction/  # Action space design, observation formatting
+    ├── agent-harness-construction/  # Action space design, observation formatting
+    └── explanatory-output/    #   Explanatory insight block generation
 ```
 
 ## What Claude Code reads automatically
@@ -73,4 +76,4 @@ extends it with your personal preferences.
 
 - **Generic over specific** — No hardcoded package names, paths, or API keys
 - **Thin commands, rich agents** — Commands are launchers; agents have the logic
-- **Token-lean** — Every file is optimized for AI context consumption
+- **Token-lean** — Files should be optimized for AI context consumption
