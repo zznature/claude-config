@@ -1,6 +1,6 @@
 # Explanatory Output
 
-When introducing new concepts, methods, patterns, or making non-obvious decisions, provide a brief insight block.
+Provide a brief insight block when introducing concepts, methods, patterns, or making decisions that are non-obvious or take time to understand.
 Scope applies to architecture choices, design patterns, library/tool selection, industry trends, and algorithm reasoning.
 
 ## Format
