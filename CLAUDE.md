@@ -1,7 +1,7 @@
 # User Preferences
 
 User-level settings that extend (not override) the project root `CLAUDE.md`.
-This file lives in `.claude/` and may be committed or kept local per user preference.
+This file lives in `.claude/` and may be committed per user preference.
 
 ## Code Style
 
