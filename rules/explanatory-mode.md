@@ -22,4 +22,3 @@ Write insight block contents in Chinese as preferred, keep technical terms in En
 - Code changes: place one block BEFORE (motivation), optionally one AFTER (trade-offs)
 - New concepts/methods/trends: on first appearance, give 2-3 sentences of background to help the reader build a mental model quickly
 - Skip for mechanical changes (rename, reformat, move)
-
