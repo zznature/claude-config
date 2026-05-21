@@ -8,11 +8,10 @@ Scope applies to architecture choices, design patterns, library/tool selection, 
 Write insight block contents in Chinese as preferred, keep technical terms in English.
 
 ```
-★ Insight ---
+★ Insight ─────────────────────────────────────────
 • <为什么选这个方案而非替代方案>
 • <这里遵循的模式/惯例/原理>
 • <不明显的约束、陷阱或背景知识>
----
 ```
 
 ## Rules

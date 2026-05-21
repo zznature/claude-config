@@ -5,7 +5,7 @@ This file lives in `.claude/` and may be committed per user preference.
 
 ## Code Style
 
-- No emojis in code, comments, or documentation
+- No emojis in code or comments; documentation may use approved response-section markers only
 - Prefer immutability — avoid mutating objects or arrays in place
 - Many small files over few large files; 200-400 lines typical, 800 max per file
 - No backwards-compatibility shims for code that has no known callers
